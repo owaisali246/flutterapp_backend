@@ -1,0 +1,10 @@
+Django
+django-cors-headers
+djangorestframework
+Pillow
+dj-rest-auth
+django-allauth
+django-phonenumber-field
+django-qr-code
+django-location-field
+django-phonenumbers
